@@ -12,4 +12,5 @@ Uno dei miei piatti preferiti della tradizione giapponese
 - Salsa di soia
 - Alga nori
 - Chashu
-
+- Olio
+  
